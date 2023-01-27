@@ -1,0 +1,187 @@
+/***
+
+--Author: Pokstoudis-Christodoulou Ioannis, 2019-20.
+--Description: Petshop web page custom style.css
+--Version: 0.2
+
+***/
+
+h4, h5 { color: #6B6B6B; }
+
+/*** Padding style ***/
+.container-fluid, #footer, #socket, .register_form { padding-right: 6%; padding-left: 6%; }
+.container-fluid.headerMenu, .container-fluid.mainMenu { padding-right: 5%; padding-left: 5%; }
+/*.container-fluid.cart, .container-fluid.dogs { padding-bottom: 50px; }*/
+
+/*** Header Menu style ***/
+.container-fluid.headerMenu { background-color: #f8f9fa; }
+#headerMenu a.nav-link { font-size: 15px; }
+button.btn.btn-outline-success.my-2.my-sm-0.search:hover { background-color: #09747C; color: #FFFFFF; }
+button.btn.btn-outline-success.my-2.my-sm-0.search { color: #2BBBAD; }
+#headerMenu .cart_quantity { 
+    width: fit-content;
+    color: #FFFFFF;
+    font-size: 15px;
+    background: #09747C;
+    text-align: center;
+    border-radius: 4px;
+    padding: 0px 5px 1px 5px;
+    margin-left: 2px;
+}
+
+/*** Main Menu style ***/
+.container-fluid.mainMenu a { font-size: 17px; }
+.container-fluid.mainMenu  { background-color: #2BBBAD; }
+.navbar.navbar-expand-sm.navbar-light.bg-light.main { background-color: #2BBBAD !important; }
+#mainMenu a.nav-link { color: #eeeeee; }
+#mainMenu a.nav-link:hover { color: #ffffff; }
+
+
+/*** Admin Menu style ***/
+.container-fluid.admin_menu a { font-size: 17px; }
+.container-fluid.admin_menu  { background-color: #f8f9fa; }
+.navbar.navbar-expand-sm.navbar-light.bg-light.admin { background-color: #f8f9fa !important; }
+#admin_menu a.nav-link { color: #09747C; }
+#admin_menu a.nav-link:hover { color: #2BBBAD; }
+
+
+/*** Carousel style ***/
+#carouselIndicators h4  {
+	font-size: 24px;
+	font-weight: bold;
+	color: #ffffff;
+	text-shadow: 5px 5px 5px #000000;
+}
+#carouselIndicators p {
+	font-size: 20px;
+	font-weight: 600;
+	text-shadow: 5px 5px 5px #000000;
+}
+
+
+/*** Latest & New Products style ***/
+#nprods { padding-top: 16px; }
+#popular_prods { padding-bottom: 16px; }
+#prods .card-title a , #popular_prods .card-title a{ color: #2BBBAD; font-size: 20px; }
+a.btn.btn-primary { background-color: #2BBBAD; border-color: #2BBBAD; float: right; }
+a.btn.btn-primary:hover , a.btn.btn-primary:active { background-color: #09747C; }
+#prods input, #popular_prods input { padding-left: 6px; }
+
+
+/*** Dogs Page style ***/
+#dogs .nav.flex-column a { color: #000000; } 
+#dogs .nav.flex-column a:hover { color: #09747C; background-color: #F2F2F2; }
+#dogs .nav.flex-column a.nav-link.active {background-color: #F2F2F2; color: #09747C; font-weight: bold; }
+#dogs .dogs h4 a { color: #2BBBAD; font-size: 20px; }
+#dogs input { width: 60px; padding-left: 8px; } 
+#dogs button.btn.btn-primary.btn-lg.btn-block.add_toCart { padding: 6px 3px 6px 3px;  }
+
+
+/*** Cart Page style ***/
+.final_price p { 
+	text-align: right;
+	font-weight: 600;
+	color: #ffffff; 
+	background-color: #09747C;
+	padding: 6px 16px 6px 0px;
+}
+#cart input { width: 100%; padding-left: 6px; }
+th { color: #212529; }
+.title_prod { font-weight: 600; color: #09747C; }
+.sum { font-weight: 600; }
+
+
+/******** Buttons ********/ 
+.row.product_form .btn.btn-primary.btn-lg.btn-block,
+#administrator .btn.btn-primary.btn-lg.btn-block,
+#cart .btn.btn-primary.btn-lg.btn-block,
+.btn.btn-primary.btn-lg.btn-block.add_toCart, 
+#profile .btn.btn-primary.btn-lg.btn-block,
+#login_register .btn.btn-primary.btn-lg.btn-block, 
+.row.xml button.btn.btn-primary.btn-lg.btn-block {
+	background-color: #2BBBAD; 
+	border-color: #2BBBAD;
+}
+
+#profile a button.btn-link { color: #09747C;  }
+#profile a button.btn-link:hover { color: #2BBBAD;  }
+.btn.btn-primary.btn-lg.btn-block.add_toCart { font-size: 16px;  }
+.row.product_form .btn.btn-primary.btn-lg.btn-block:hover,
+#administrator .btn.btn-primary.btn-lg.btn-block:hover, 
+#cart .btn.btn-primary.btn-lg.btn-block:hover,
+.btn.btn-primary.btn-lg.btn-block.add_toCart:hover, 
+#profile .btn.btn-primary.btn-lg.btn-block:hover, 
+#login_register .btn.btn-primary.btn-lg.btn-block:hover,
+.row.xml button.btn.btn-primary.btn-lg.btn-block:hover {
+	background-color: #09747C; 
+}
+
+#administrator .add_product a:hover { text-decoration: none;  }
+#administrator table.table.table-responsive.table-striped .btn, #cart table.table.table-responsive.table-striped .btn { 
+	font-size: 18px;
+	padding: 3px 6px 3px 6px;
+	width: 100%;
+	background-color: #2BBBAD;
+	border-color: #2BBBAD;
+}
+
+#administrator table.table.table-responsive.table-striped .btn:hover, #cart table.table.table-responsive.table-striped .btn:hover { 
+	background-color: #09747C;
+	border-color: #09747C;
+}
+
+#administrator button.btn.btn-danger.btn-rounded.delete:hover,
+#profile button.btn.btn-primary.btn-lg.btn-block.delete:hover,
+#cart button.btn.btn-danger.btn-rounded.btn-sm.my-0.delete:hover { background: #b23b3b; border-color: #b23b3b;  }
+.back a, .log_out a { color: #2BBBAD; }
+.back a:hover, .log_out a:hover { color: #09747C; }
+
+#back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
+/*** Footer ***/
+#footer { background: #09747C; }
+.navbar.navbar-expand-sm.navbar-light.bg-light.footer { background-color: #09747C !important; }
+#footer a { color: #eeeeee; }
+#footer a:hover { color: #2BBBAD; }
+#footer button.navbar-toggler { background-color: #f8f9fa; }
+#footer p { color: #EEEEEE; }
+#socket { background: #FFFFFF; }
+#socket h6 { color: #071c33; font-size: 14px; }
+
+
+/*** Pagination ***/
+#administrator a.page-link { color: #09747C;  }
+#administrator a.page-link.custom { background: #f8f9fa; color: #09747C;  }
+
+
+/*** Statistics ***/
+.checked { color: #2BBBAD; }
+#administrator .card-title a{ color: #2BBBAD; font-size: 20px; }
+
+
+/*** Media Quiries ***/
+@media only screen and (max-width: 1024px) {
+  a.btn.btn-primary { float: inherit; }
+}
+
+@media only screen and (max-width: 640px) {
+  a.btn.btn-primary { float: right; }
+}
+
+@media only screen and (max-width: 320px) {
+  a.btn.btn-primary { float: inherit; }
+}
+
+@media only screen and (max-width: 768px) {
+	#cart .col-md-8.cart_form { padding-left: 2%; }
+}
+
+@media only screen and (max-width: 575px) {
+	#footer p { display: none; }
+}
+
