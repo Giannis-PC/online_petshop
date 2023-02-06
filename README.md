@@ -1,4 +1,4 @@
 # online_petshop
 An eshop project for educational purposes.
 
-Learning goals: Web design, web development using HTML, CSS, Javascript, Php and SQL.
+Learning goals: Web design, web development using HTML, CSS, JavaScript, Php and SQL.
