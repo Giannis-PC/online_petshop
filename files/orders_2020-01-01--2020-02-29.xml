@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orders SYSTEM "orders.dtd">
+<orders>
+  <order order_id="11">
+    <customer_fname>Μενέλαος</customer_fname>
+    <customer_lname>Σωτηράκης</customer_lname>
+    <total_cost>76.10</total_cost>
+  </order>
+  <order order_id="47">
+    <customer_fname>Αγησίλαος</customer_fname>
+    <customer_lname>Γεωργιάδης</customer_lname>
+    <total_cost>58.30</total_cost>
+  </order>
+  <order order_id="40">
+    <customer_fname>Πηνελόπη</customer_fname>
+    <customer_lname>Βασιλειάδου</customer_lname>
+    <total_cost>54.10</total_cost>
+  </order>
+  <order order_id="32">
+    <customer_fname>Ευμορφίλη</customer_fname>
+    <customer_lname>Παπαδοπούλου</customer_lname>
+    <total_cost>40.50</total_cost>
+  </order>
+  <order order_id="49">
+    <customer_fname>Ευμορφίλη</customer_fname>
+    <customer_lname>Παπαδοπούλου</customer_lname>
+    <total_cost>37.50</total_cost>
+  </order>
+  <order order_id="36">
+    <customer_fname>Μαρίνος</customer_fname>
+    <customer_lname>Αλεξιάδης</customer_lname>
+    <total_cost>27.00</total_cost>
+  </order>
+  <order order_id="43">
+    <customer_fname>Σίμος</customer_fname>
+    <customer_lname>Αλεξανδρής</customer_lname>
+    <total_cost>27.00</total_cost>
+  </order>
+  <order order_id="31">
+    <customer_fname>Αγησίλαος</customer_fname>
+    <customer_lname>Γεωργιάδης</customer_lname>
+    <total_cost>18.00</total_cost>
+  </order>
+  <popular_product product_id="5">
+    <product_name>Van Cat Classic</product_name>
+  </popular_product>
+  <popular_product product_id="2">
+    <product_name>Eminem Platinum Adult</product_name>
+  </popular_product>
+  <popular_product product_id="19">
+    <product_name>Belcado Fresh Meat Beef</product_name>
+  </popular_product>
+  <popular_product product_id="15">
+    <product_name>Αυτόματη Ποτίστρα Νερού</product_name>
+  </popular_product>
+  <popular_product product_id="14">
+    <product_name>Luna Blue</product_name>
+  </popular_product>
+</orders>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orders SYSTEM "orders.dtd">
+<orders>
+  <order order_id="181">
+    <customer_fname>Ευγένιος</customer_fname>
+    <customer_lname>Σπαθάρης</customer_lname>
+    <total_cost>134.66</total_cost>
+  </order>
+  <order order_id="159">
+    <customer_fname>Θωμάς</customer_fname>
+    <customer_lname>Μαρκόπουλος</customer_lname>
+    <total_cost>131.59</total_cost>
+  </order>
+  <order order_id="187">
+    <customer_fname>Θανάσης</customer_fname>
+    <customer_lname>Καραπάνος</customer_lname>
+    <total_cost>122.75</total_cost>
+  </order>
+  <order order_id="173">
+    <customer_fname>Ευγενία</customer_fname>
+    <customer_lname>Σαμαρά</customer_lname>
+    <total_cost>91.06</total_cost>
+  </order>
+  <order order_id="169">
+    <customer_fname>Κωνσταντίνος</customer_fname>
+    <customer_lname>Σαμδάνης</customer_lname>
+    <total_cost>67.30</total_cost>
+  </order>
+  <order order_id="165">
+    <customer_fname>Ιερώνυμος</customer_fname>
+    <customer_lname>Ματθαίου</customer_lname>
+    <total_cost>53.94</total_cost>
+  </order>
+  <order order_id="178">
+    <customer_fname>Ερμής</customer_fname>
+    <customer_lname>Παρμενίδης</customer_lname>
+    <total_cost>37.56</total_cost>
+  </order>
+  <popular_product product_id="5">
+    <product_name>Van Cat Classic</product_name>
+  </popular_product>
+  <popular_product product_id="2">
+    <product_name>Eminem Platinum Adult</product_name>
+  </popular_product>
+  <popular_product product_id="16">
+    <product_name>Μπωλ Διατήρησης Φρέσκου Νερού</product_name>
+  </popular_product>
+  <popular_product product_id="6">
+    <product_name>Body Suplement 60 caps</product_name>
+  </popular_product>
+  <popular_product product_id="18">
+    <product_name>Vadigran Siskins</product_name>
+  </popular_product>
+</orders>

@@ -1,0 +1,10 @@
+<!ELEMENT orders (order*, popular_product*)>
+<!ELEMENT order (customer_fname, customer_lname, total_cost)>
+<!ELEMENT customer_fname (#PCDATA)>
+<!ELEMENT customer_lname (#PCDATA)>
+<!ELEMENT total_cost (#PCDATA)>
+<!ATTLIST order order_id CDATA #REQUIRED>
+<!ELEMENT popular_product (product_name)>
+<!ELEMENT product_name (#PCDATA)>
+<!ATTLIST popular_product product_id CDATA #REQUIRED>
+

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orders SYSTEM "orders.dtd">
+<orders>
+  <order order_id="92">
+    <customer_fname>Γιάννης</customer_fname>
+    <customer_lname>Βαβούρας</customer_lname>
+    <total_cost>141.76</total_cost>
+  </order>
+  <order order_id="181">
+    <customer_fname>Ευγένιος</customer_fname>
+    <customer_lname>Σπαθάρης</customer_lname>
+    <total_cost>134.66</total_cost>
+  </order>
+  <order order_id="159">
+    <customer_fname>Θωμάς</customer_fname>
+    <customer_lname>Μαρκόπουλος</customer_lname>
+    <total_cost>131.59</total_cost>
+  </order>
+  <order order_id="187">
+    <customer_fname>Θανάσης</customer_fname>
+    <customer_lname>Καραπάνος</customer_lname>
+    <total_cost>122.75</total_cost>
+  </order>
+  <order order_id="101">
+    <customer_fname>Ερμής</customer_fname>
+    <customer_lname>Παρμενίδης</customer_lname>
+    <total_cost>98.48</total_cost>
+  </order>
+  <order order_id="58">
+    <customer_fname>Φρειδερίκος</customer_fname>
+    <customer_lname>Σαλπιγγίδης</customer_lname>
+    <total_cost>94.60</total_cost>
+  </order>
+  <order order_id="138">
+    <customer_fname>Γιάννης</customer_fname>
+    <customer_lname>Βαβούρας</customer_lname>
+    <total_cost>94.30</total_cost>
+  </order>
+  <order order_id="173">
+    <customer_fname>Ευγενία</customer_fname>
+    <customer_lname>Σαμαρά</customer_lname>
+    <total_cost>91.06</total_cost>
+  </order>
+  <order order_id="73">
+    <customer_fname>Ευγενία</customer_fname>
+    <customer_lname>Σαμαρά</customer_lname>
+    <total_cost>90.85</total_cost>
+  </order>
+  <order order_id="105">
+    <customer_fname>Απόστολος</customer_fname>
+    <customer_lname>Χριστοδουλόπουλος</customer_lname>
+    <total_cost>89.96</total_cost>
+  </order>
+  <order order_id="154">
+    <customer_fname>Διαγόρας</customer_fname>
+    <customer_lname>Ανανιάδης</customer_lname>
+    <total_cost>86.72</total_cost>
+  </order>
+  <order order_id="78">
+    <customer_fname>Μάκης</customer_fname>
+    <customer_lname>Καλπάκης</customer_lname>
+    <total_cost>81.02</total_cost>
+  </order>
+  <order order_id="131">
+    <customer_fname>Ευμορφίλη</customer_fname>
+    <customer_lname>Παπαδοπούλου</customer_lname>
+    <total_cost>81.00</total_cost>
+  </order>
+  <order order_id="108">
+    <customer_fname>Αλέξανδρος</customer_fname>
+    <customer_lname>Βουκεφάλας</customer_lname>
+    <total_cost>79.90</total_cost>
+  </order>
+  <order order_id="80">
+    <customer_fname>Μενέλαος</customer_fname>
+    <customer_lname>Σωτηράκης</customer_lname>
+    <total_cost>76.05</total_cost>
+  </order>
+  <order order_id="145">
+    <customer_fname>Μαρίνος</customer_fname>
+    <customer_lname>Αλεξιάδης</customer_lname>
+    <total_cost>71.86</total_cost>
+  </order>
+  <order order_id="124">
+    <customer_fname>Ελένη</customer_fname>
+    <customer_lname>Ωραιοπούλου</customer_lname>
+    <total_cost>71.80</total_cost>
+  </order>
+  <order order_id="169">
+    <customer_fname>Κωνσταντίνος</customer_fname>
+    <customer_lname>Σαμδάνης</customer_lname>
+    <total_cost>67.30</total_cost>
+  </order>
+  <order order_id="127">
+    <customer_fname>Βασίλης</customer_fname>
+    <customer_lname>Δημητριάδης</customer_lname>
+    <total_cost>67.10</total_cost>
+  </order>
+  <order order_id="117">
+    <customer_fname>Κωνσταντίνος</customer_fname>
+    <customer_lname>Σαμδάνης</customer_lname>
+    <total_cost>64.16</total_cost>
+  </order>
+  <order order_id="76">
+    <customer_fname>Πηνελόπη</customer_fname>
+    <customer_lname>Βασιλειάδου</customer_lname>
+    <total_cost>63.59</total_cost>
+  </order>
+  <order order_id="150">
+    <customer_fname>Μενέλαος</customer_fname>
+    <customer_lname>Σωτηράκης</customer_lname>
+    <total_cost>62.80</total_cost>
+  </order>
+  <order order_id="165">
+    <customer_fname>Ιερώνυμος</customer_fname>
+    <customer_lname>Ματθαίου</customer_lname>
+    <total_cost>53.94</total_cost>
+  </order>
+  <order order_id="142">
+    <customer_fname>Φρειδερίκος</customer_fname>
+    <customer_lname>Σαλπιγγίδης</customer_lname>
+    <total_cost>50.00</total_cost>
+  </order>
+  <order order_id="129">
+    <customer_fname>Μιχάλης</customer_fname>
+    <customer_lname>Μιχαηλίδης</customer_lname>
+    <total_cost>44.90</total_cost>
+  </order>
+  <order order_id="114">
+    <customer_fname>Ευγένιος</customer_fname>
+    <customer_lname>Σπαθάρης</customer_lname>
+    <total_cost>41.91</total_cost>
+  </order>
+  <order order_id="178">
+    <customer_fname>Ερμής</customer_fname>
+    <customer_lname>Παρμενίδης</customer_lname>
+    <total_cost>37.56</total_cost>
+  </order>
+  <order order_id="51">
+    <customer_fname>Κωνσταντίνος</customer_fname>
+    <customer_lname>Σαμδάνης</customer_lname>
+    <total_cost>35.76</total_cost>
+  </order>
+  <order order_id="111">
+    <customer_fname>Αγησίλαος</customer_fname>
+    <customer_lname>Γεωργιάδης</customer_lname>
+    <total_cost>28.50</total_cost>
+  </order>
+  <order order_id="52">
+    <customer_fname>Μαρίνος</customer_fname>
+    <customer_lname>Αλεξιάδης</customer_lname>
+    <total_cost>13.60</total_cost>
+  </order>
+  <popular_product product_id="2">
+    <product_name>Eminem Platinum Adult</product_name>
+  </popular_product>
+  <popular_product product_id="5">
+    <product_name>Van Cat Classic</product_name>
+  </popular_product>
+  <popular_product product_id="6">
+    <product_name>Body Suplement 60 caps</product_name>
+  </popular_product>
+  <popular_product product_id="18">
+    <product_name>Vadigran Siskins</product_name>
+  </popular_product>
+  <popular_product product_id="16">
+    <product_name>Μπωλ Διατήρησης Φρέσκου Νερού</product_name>
+  </popular_product>
+</orders>
